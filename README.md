@@ -7,4 +7,6 @@ insert new line 2
 insert new line 3
 insert new line 4
 
+brancg master
+
 Following the documents, I write this text.
